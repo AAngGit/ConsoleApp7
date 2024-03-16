@@ -12,6 +12,8 @@ namespace ConsoleApp7
         {
             Console.WriteLine("huhu");
             Console.ReadLine();
+            Console.WriteLine("hihi");
+            Console.ReadLine();
         }
     }
 }
